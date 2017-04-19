@@ -1,4 +1,7 @@
-# test coverage for  [material-design-lite (v1.3.0)](https://github.com/google/material-design-lite#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-material-design-lite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-material-design-lite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-material-design-lite.svg)](https://travis-ci.org/npmtest/node-npmtest-material-design-lite)
+# npmtest-material-design-lite
+
+#### test coverage for  [material-design-lite (v1.3.0)](https://github.com/google/material-design-lite#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-material-design-lite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-material-design-lite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-material-design-lite.svg)](https://travis-ci.org/npmtest/node-npmtest-material-design-lite)
+
 #### Material Design Components in CSS, JS and HTML
 
 [![NPM](https://nodei.co/npm/material-design-lite.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/material-design-lite)
